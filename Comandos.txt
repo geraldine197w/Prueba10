@@ -1,0 +1,5 @@
+Git branch
+Git checkout
+Git pull
+Git config
+Git remote
