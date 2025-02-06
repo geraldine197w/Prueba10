@@ -1,5 +1,5 @@
-Git branch
-Git checkout
-Git pull
-Git config
-Git remote
+Git branch: Crear una Nueva Rama
+Git checkout: Cambiar a Otra Rama
+Git pull: Obtener Cambios del Repositorio Remoto
+Git config: Configuración Básica
+Git remote: Agregar un Repositorio Remoto.
